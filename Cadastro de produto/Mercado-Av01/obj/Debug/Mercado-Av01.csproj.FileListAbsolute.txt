@@ -1,0 +1,41 @@
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\bin\Debug\Mercado-Av01.exe.config
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\bin\Debug\Mercado-Av01.exe
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\bin\Debug\Mercado-Av01.pdb
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\bin\Debug\pt-BR\Mercado-Av01.resources.dll
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Form1.resources
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Properties.Resources.resources
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Form1.pt-BR.resources
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\obj\Debug\pt-BR\Mercado-Av01.resources.dll
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.exe
+C:\Users\crist\Documents\Programacao\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.pdb
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.AssemblyReference.cache
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.SuggestedBindingRedirects.cache
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Form1.resources
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Properties.Resources.resources
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Form1.pt-BR.resources
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.GenerateResource.cache
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.CoreCompileInputs.cache
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.exe
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.pdb
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\bin\Debug\Mercado-Av01.exe.config
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\bin\Debug\Mercado-Av01.exe
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\bin\Debug\Mercado-Av01.pdb
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\bin\Debug\pt-BR\Mercado-Av01.resources.dll
+C:\Users\20192SI0002\Documents\LP3\Estoque\Mercado-Av01\obj\Debug\pt-BR\Mercado-Av01.resources.dll
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\bin\Debug\Mercado-Av01.exe.config
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\bin\Debug\Mercado-Av01.exe
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\bin\Debug\Mercado-Av01.pdb
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\bin\Debug\pt-BR\Mercado-Av01.resources.dll
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Form1.resources
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Properties.Resources.resources
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Form1.pt-BR.resources
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\pt-BR\Mercado-Av01.resources.dll
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.exe
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\Mercado-Av01.pdb
+C:\Users\crist\Documents\Programacao\LP3\Sistema de Estoque - Cristóvão Rios & Victor Vinícius\Estoque\Mercado-Av01\obj\Debug\Mercado_Av01.Form2.resources
